@@ -6,8 +6,8 @@ To build network intrusion detection system to detect anamolies and attacks in t
 
 Please find the following files:
 
-   1.Predictions enclosed as "Final_outputs.xlsx" file
+    1.Predictions enclosed as "Final_outputs.xlsx" file
    
-   2.Required ipynb file
+    2.Required ipynb file
    
-   3.Provided data and other material
+    3.Provided data and other material
